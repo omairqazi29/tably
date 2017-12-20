@@ -19,9 +19,9 @@ distributions.</p>
 
 ([Don't have snapd installed?](https://snapcraft.io/docs/core/install))
 
-<!-- Uncomment and modify this when you have a screenshot
-![my-snap-name](screenshot.png?raw=true "my-snap-name")
--->
+ Uncomment and modify this when you have a screenshot
+![tably](/home/femilamptey/Pictures/Screenshot from 2017-12-20 21-24-10.png?raw=true "tably")
+
 
 <p align="center">Published for <img src="http://anything.codes/slack-emoji-for-techies/emoji/tux.png" align="top" width="24" /> with :gift_heart: by Snapcrafters</p>
 
@@ -39,7 +39,6 @@ upstream so [Project] can authoritatively publish future releases.
   - [x] Create a snap that runs in `devmode`
   - [x] Register the snap in the store, **using the preferred upstream name**
   - [x] Add a screenshot to this `README.md`
-     ! [Alt text] (/home/femilamptey/Pictures/Screenshot from 2017-12-20 21-24-10.png)
   - [x] Publish the `devmode` snap in the Snap store edge channel
   - [ ] Add install instructions to this `README.md`
   - [x] Update snap store metadata, icons and screenshots
