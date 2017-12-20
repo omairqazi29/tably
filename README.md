@@ -4,7 +4,7 @@
   [Project]
 </h1>
 
-<p align="center"><b>This is the snap for [Project]</b>, <i>"Single-line elevator pitch for your amazing snap"</i>. It works on Ubuntu, Fedora, Debian, and other major Linux
+<p align="center"><b>This is the snap for [tably]</b>, <i>"Python command-line script for converting .csv data to LaTeX tables "</i>. It works on Ubuntu, Fedora, Debian, and other major Linux
 distributions.</p>
 
 <!-- Uncomment and modify this when you are provided a build status badge
@@ -15,11 +15,11 @@ distributions.</p>
 
 ## Install
 
-    sudo snap install my-snap-name
+    sudo snap install tably --channel=beta
+    tably
 
 ([Don't have snapd installed?](https://snapcraft.io/docs/core/install))
 
- Uncomment and modify this when you have a screenshot
 
  ![tably-snap](https://github.com/fennecus-z/tably-snap/blob/master/Screenshot%20from%202017-12-20%2021-24-10.png)
 
