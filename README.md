@@ -20,6 +20,7 @@ distributions.</p>
 ([Don't have snapd installed?](https://snapcraft.io/docs/core/install))
 
  Uncomment and modify this when you have a screenshot
+
 ![tably](Screenshot from 2017-12-20 21-24-10.png)
 
 
