@@ -21,7 +21,7 @@ distributions.</p>
 
  Uncomment and modify this when you have a screenshot
 
-![tably-snap](Screenshot from 2017-12-20 21-24-10.png)
+ ![tably-snap](https://github.com/fennecus-z/tably-snap/blob/master/Screenshot%20from%202017-12-20%2021-24-10.png)
 
 
 <p align="center">Published for <img src="http://anything.codes/slack-emoji-for-techies/emoji/tux.png" align="top" width="24" /> with :gift_heart: by Snapcrafters</p>
