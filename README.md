@@ -15,14 +15,13 @@ distributions.</p>
 
 ## Install
 
-    sudo snap install tably --channel=beta
+    sudo snap install tably-snap --channel=beta
     tably
 
 ([Don't have snapd installed?](https://snapcraft.io/docs/core/install))
 
 
- ![tably-snap](https://github.com/fennecus-z/tably-snap/blob/master/Screenshot%20from%202017-12-20%2021-24-10.png)
-
+ ![tably-snap](https://github.com/fennecus-z/tably-snap/blob/master/Screenshot%20from%202017-12-21%2001-23-16.png)
 
 <p align="center">Published for <img src="http://anything.codes/slack-emoji-for-techies/emoji/tux.png" align="top" width="24" /> with :gift_heart: by Snapcrafters</p>
 
